@@ -3,7 +3,7 @@ lightline-seoul256
 
 Overview
 -----------------
-lightline-gruvbox is a [lightline.vim](https://github.com/itchyny/lightline.vim) theme for the fantastic [seoul256](https://github.com/junegunn/seoul256.vim) colorscheme, heavily inspired by [lightline-hybrid](https://github.com/cocopon/lightline-hybrid.vim).
+lightline-seoul256 is a [lightline.vim](https://github.com/itchyny/lightline.vim) theme for the fantastic [seoul256](https://github.com/junegunn/seoul256.vim) colorscheme, heavily inspired by [lightline-hybrid](https://github.com/cocopon/lightline-hybrid.vim).
 
 Installation
 ----------------
@@ -23,7 +23,7 @@ let g:lightline.colorscheme = 'seoul256'
 Screenshots
 ----------------
 ### Dark
-![dark](https://raw.githubusercontent.com/shinchu/images/master/lightline-gruvbox/dark.png)
+![dark](https://raw.githubusercontent.com/shinchu/images/master/lightline-seoul256/dark.png)
 
 ### Light
-![light](https://raw.githubusercontent.com/shinchu/images/master/lightline-gruvbox/light.png)
+![light](https://raw.githubusercontent.com/shinchu/images/master/lightline-seoul256/light.png)

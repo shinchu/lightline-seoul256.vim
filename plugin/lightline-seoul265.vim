@@ -21,7 +21,7 @@ if s:is_dark
 
 	let s:red      = '#be7572'
 	let s:green    = '#98bc99'
-	let s:blue     = '#97dddf'
+	let s:blue     = '#98bcbd'
 	let s:orange   = '#e19972'
 	let s:c_red    = 9
 	let s:c_green  = 10

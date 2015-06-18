@@ -44,7 +44,7 @@ else
 	let s:red      = '#9a7372'
 	let s:green    = '#bdbb72'
 	let s:blue     = '#719899'
-	let s:orange   = '#ffbd98'
+	let s:orange   = '#e19972'
 	let s:c_red    = 9
 	let s:c_green  = 10
 	let s:c_blue   = 12

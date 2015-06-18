@@ -41,8 +41,8 @@ else
 	let s:c_mono4 = 7
 	let s:c_mono5 = 15
 
-	let s:red      = '#9a7372'
-	let s:green    = '#bdbb72'
+	let s:red      = '#be7572'
+	let s:green    = '#999872'
 	let s:blue     = '#719899'
 	let s:orange   = '#e19972'
 	let s:c_red    = 9

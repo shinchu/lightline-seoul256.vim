@@ -3,7 +3,7 @@ lightline-seoul256
 
 Overview
 -----------------
-lightline-seoul256 is a [lightline.vim](https://github.com/itchyny/lightline.vim) theme for the fantastic [seoul256](https://github.com/junegunn/seoul256.vim) colorscheme, heavily inspired by [lightline-hybrid](https://github.com/cocopon/lightline-hybrid.vim).
+lightline-seoul256 is a [lightline.vim](https://github.com/itchyny/lightline.vim) theme for the fantastic [seoul256](https://github.com/junegunn/seoul256.vim) colorscheme, deeply inspired by [lightline-hybrid](https://github.com/cocopon/lightline-hybrid.vim).
 
 Installation
 ----------------

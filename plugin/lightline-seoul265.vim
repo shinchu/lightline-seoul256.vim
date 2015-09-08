@@ -12,21 +12,21 @@ if s:is_dark
 	let s:mono3   = '#6b6b6b'
 	let s:mono4   = '#757575'
 	let s:mono5   = '#bfbfbf'
-	let s:c_mono0 = 234
-	let s:c_mono1 = 0
-	let s:c_mono2 = 236
-	let s:c_mono3 = 8
-	let s:c_mono4 = 7
-	let s:c_mono5 = 15
+	let s:c_mono0 = 237
+	let s:c_mono1 = 238
+	let s:c_mono2 = 239
+	let s:c_mono3 = 240
+	let s:c_mono4 = 241
+	let s:c_mono5 = 249
 
 	let s:red      = '#be7572'
 	let s:green    = '#98bc99'
 	let s:blue     = '#98bcbd'
 	let s:orange   = '#e19972'
-	let s:c_red    = 9
-	let s:c_green  = 10
-	let s:c_blue   = 12
-	let s:c_orange = 3
+	let s:c_red    = 131
+	let s:c_green  = 108
+	let s:c_blue   = 109
+	let s:c_orange = 173
 else
 	let s:mono0   = '#e1e1e1'
 	let s:mono1   = '#d9d9d9'
@@ -34,21 +34,21 @@ else
 	let s:mono3   = '#c8c8c8'
 	let s:mono4   = '#bfbfbf'
 	let s:mono5   = '#757575'
-	let s:c_mono0 = 234
-	let s:c_mono1 = 0
-	let s:c_mono2 = 236
-	let s:c_mono3 = 8
-	let s:c_mono4 = 7
-	let s:c_mono5 = 15
+	let s:c_mono0 = 253
+	let s:c_mono1 = 252
+	let s:c_mono2 = 251
+	let s:c_mono3 = 250
+	let s:c_mono4 = 249
+	let s:c_mono5 = 241
 
 	let s:red      = '#be7572'
 	let s:green    = '#999872'
 	let s:blue     = '#719899'
 	let s:orange   = '#e19972'
-	let s:c_red    = 9
-	let s:c_green  = 10
-	let s:c_blue   = 12
-	let s:c_orange = 3
+	let s:c_red    = 131
+	let s:c_green  = 101
+	let s:c_blue   = 66
+	let s:c_orange = 173
 endif
 
 let s:p = {

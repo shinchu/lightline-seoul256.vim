@@ -30,7 +30,7 @@ if s:is_dark
 else
 	let s:mono0   = '#e1e1e1'
 	let s:mono1   = '#d9d9d9'
-	let s:mono2   = '#d1d1d1'
+	let s:mono2   = '#d1d0d1'
 	let s:mono3   = '#c8c8c8'
 	let s:mono4   = '#bfbfbf'
 	let s:mono5   = '#757575'
